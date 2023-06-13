@@ -1,0 +1,119 @@
+Developing a beautiful AI Bard chart application using React Native, Expo build tool, and Google AI's bard API. Includes navigation and loading animation implementation.
+
+
+[00:00]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=0)
+Developing a beautiful AI chat application using React Native, Next.js, and Google AI's board API
+
+[07:32]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=452)
+Building a home screen component in React Native
+
+[13:55]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=835)
+Creating dynamic styling and displaying an image in React
+
+[20:04]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=1204)
+Implementing a FlatList in React Native
+
+[26:30]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=1590)
+Implemented touchable opacity and button styling
+
+[33:01]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=1981)
+Create a bad API with Next.js and Google Dialogflow
+
+[01:19]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=79)
+Implementing an API endpoint and adding it to a new screen using React Navigation
+
+[46:15]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=2775)
+Implementing stack navigation in React Native
+
+[02:40]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=160)
+Implementing a chart screen using gifted chart library and calling a bar API
+
+[59:07]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=3547)
+Implement loading effect for chatbot messages
+
+[1:05:50]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=3950)
+Adding AI functionality to any application is easy
+
+---------------------------------
+
+Detailed Summary for [Full Stack AI Chatbot : React Native, Next.js 13, Google Bard API, Expo]
+(https://www.youtube.com/watch?v=LhKguWePLp0) by [Merlin] (https://merlin.foyer.work/)
+
+[00:00]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=0)
+Developing a beautiful AI chat application using React Native, Next.js, and Google AI's board API
+- Using Expo to create the React Native application
+- Implementing navigation using React Navigation Library
+- Using Google AI's board API for AI responses
+- Writing REST API using Next.js for deployment
+
+[07:32]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=452)
+Building a home screen component in React Native
+- Accessing hard-coded data using useEffect hook
+- Using useState to define variables
+
+[13:55]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=835)
+Creating dynamic styling and displaying an image in React
+- Use inline styling and curly braces to show dynamic data
+- Import the image tag from React and provide the source URL
+
+[20:04]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=1204)
+Implementing a FlatList in React Native
+- Define a FlatList to display iterative list of objects
+- Add styling and conditions to render selected chatbot
+
+[26:30]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=1590)
+Implemented touchable opacity and button styling
+- Touchable opacity allows for click events and on press events
+- Button styling includes background color, padding, border radius, and center alignment
+
+[33:01]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=1981)
+Create a bad API with Next.js and Google Dialogflow
+- Use npx create-next-app to create a new Next.js project
+- Install necessary dependencies and replace API key with Google Dialogflow API key
+
+[01:19]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=79)
+Implementing an API endpoint and adding it to a new screen using React Navigation
+- Create a new file for the API endpoint and define the base URL and query
+- Install React Navigation and use stack navigation to navigate to the new screen
+
+[46:15]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=2775)
+Implementing stack navigation in React Native
+- Create a new folder for navigation and add screens
+- Define constants for navigation and use navigation hook to navigate between screens
+
+[02:40]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=160)
+Implementing a chart screen using gifted chart library and calling a bar API
+- Use third party library gifted chart to easily implement chart UI
+- Call bar API using Global API and display response in chat board
+
+[59:07]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=3547)
+Implement loading effect for chatbot messages
+- Use useState to set loading value to true when message is sent and false when response is received
+- Add typing effect to chat bubble when loading value is true
+
+[1:05:50]
+(https://www.youtube.com/watch?v=LhKguWePLp0&t=3950)
+Adding AI functionality to any application is easy
+- Integrating bad API with React Native is simple
+- Customizing buttons and input toolbar is possible
